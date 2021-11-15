@@ -1,6 +1,6 @@
 ## Olá sou o Caio, Analista de Inteligência Comercial e estudante de Ciência de Dados!
 - Atualmente Trabalho em Projetos voltados à Performance Comercial.
-- Estudando Apache Spark e Scikit Learn
+- Estudando Apache Spark e Scikit Learn.
 
 <div>
   <a href="https://github.com/CaioEdaraujo">
